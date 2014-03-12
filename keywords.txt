@@ -1,0 +1,20 @@
+#######################################
+# Syntax Coloring Map Queue
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Queue	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+alloc	KEYWORD2
+enqueue	KEYWORD2
+dequeue	KEYWORD2
+full	KEYWORD2
+cleanup KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
